@@ -1,3 +1,7 @@
+# VIGTIG!!
+# DETTE ER IKKE EN ENDELIG PLAN. DEN ENDELIGE KOMMER SNAREST OG VIL DEREFTER IKKE INDEHOLDE DENNE OVERSKRIFT
+
+
 # Curriculum
 1\. og 2\. semesters pensum for Softwarekonstruktion Dat17v1
 

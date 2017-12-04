@@ -7,24 +7,22 @@
 
 ## 1. semester   
 
-Emnerne på første semesters konstruktion dækker områderne:
+#### Emnerne på første semesters konstruktion var følgende:
 * OOP
    * Klasser
    * Objekter
    * Attributter
    * Metoder
    * Konstruktøre
-   
-Vi har arbejdet med Arrays og ArrayList, og vi har desuden berørt emnerne Arv og Interfaces.    
- 
-Desuden har vi arbejdet med:
-  
 * Primitive datatyper
+* Arrays
+* ArrayList
 * Variabler
 * Selektioner (if/else)
 * Løkker (for, foreach, while)
+* vi har desuden berørt emnerne Arv og Interfaces
 
-Følgende literatur er blevet brugt som basis for undervisningen:
+#### Følgende literatur er blevet brugt som basis for undervisningen:
 
 Fra: **Learning the Java Language** https://docs.oracle.com/javase/tutorial/java/TOC.html
 

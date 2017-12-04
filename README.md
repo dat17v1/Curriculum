@@ -109,5 +109,5 @@ Kommer snart!!
  -->
  <!-- * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) -->
 
-
+<!-- Link til Studentadministartion og forklar at denne indeholder det gennemgåede for semesteret og herefter henvis til literatur for semesteret. -->
 

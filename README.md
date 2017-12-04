@@ -6,7 +6,9 @@
 1\. og 2\. semesters pensum for Softwarekonstruktion Dat17v1
 
 ## 1. semester
-
+På 1. semester var omdrejningspunktet for undervisningen 3 større modul opgaver:
+* Modul 1 - [little_animal_horror_zoo](https://github.com/dat17v1/little_animal_horror_zoo)
+* Modul 2 - []()
 Emnerne på første semesters konstruktion dækker områderne:
 * OOP
    * Klasser

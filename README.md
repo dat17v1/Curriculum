@@ -20,7 +20,7 @@ Desuden har vi arbejdet med:
 * Selektioner (if/else)
 * Løkker (for, foreach, while)
 
-Følgende literatur er blevet brugt i undervisningen:
+Følgende literatur er blevet brugt som basis for undervisningen:
 
 Fra: **Learning the Java Language** https://docs.oracle.com/javase/tutorial/java/TOC.html
 

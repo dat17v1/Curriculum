@@ -8,7 +8,7 @@
 ## 1. semester
 På 1. semester var omdrejningspunktet for undervisningen 3 større modul opgaver:
 * Modul 1 - [little_animal_horror_zoo](https://github.com/dat17v1/little_animal_horror_zoo)
-* Modul 2 - []()
+* Modul 2 - [Car Wash Management System]()
 Emnerne på første semesters konstruktion dækker områderne:
 * OOP
    * Klasser

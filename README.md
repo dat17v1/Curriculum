@@ -5,11 +5,8 @@
 # Curriculum
 1\. og 2\. semesters pensum for Softwarekonstruktion Dat17v1
 
-## 1. semester
-På 1. semester var omdrejningspunktet for undervisningen 3 større modul opgaver:
-* Modul 1 - [little_animal_horror_zoo](https://github.com/dat17v1/little_animal_horror_zoo)
-* Modul 2 - [Car Wash Management System](https://docs.google.com/document/d/1jJbHWRmKlGrh5Skir_1DaGP8aFfM4C8lDo0VuQfN2nk/edit#)
-* modul 3 - []()
+## 1. semester   
+
 Emnerne på første semesters konstruktion dækker områderne:
 * OOP
    * Klasser

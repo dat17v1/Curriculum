@@ -7,7 +7,7 @@
 
 ## 1. semester   
 
-Emnerne på første semesters konstruktion dækker områderne:
+Emnerne på første semesters konstruktion berørte følgende områder:
 * OOP
    * Klasser
    * Objekter
@@ -66,52 +66,47 @@ Fra: **Lesson: Language Basics** https://docs.oracle.com/javase/tutorial/java/nu
 * **Strings** https://docs.oracle.com/javase/tutorial/java/data/strings.html
     * **Converting Between Numbers and Strings** https://docs.oracle.com/javase/tutorial/java/data/converting.html
     * **Comparing Strings and Portions of Strings** https://docs.oracle.com/javase/tutorial/java/data/comparestrings.html
-    
 
+* **Exeptions**
+    * **Try/Catch**
+    
+* **Writing to a Text File**
+    * Class File https://docs.oracle.com/javase/8/docs/api/java/io/File.html)
+    * Class PrintStream https://docs.oracle.com/javase/8/docs/api/java/io/PrintStream.html
 ## 2. semester
 
-Kommer snart!!
-
 <!--
+Emnerne på andet semesters konstruktion berørte følgende områder:
+
+* **Interfaces and Inheritance** https://docs.oracle.com/javase/tutorial/java/IandI/index.html
+    * **Interfaces** https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html
+        * **Defining an Interface** https://docs.oracle.com/javase/tutorial/java/IandI/interfaceDef.html
+        * **Implementing an Interface** https://docs.oracle.com/javase/tutorial/java/IandI/usinginterface.html
+* **Inheritance** https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
+    * **Multiple Inheritance of State, Implementation, and Type** https://docs.oracle.com/javase/tutorial/java/IandI/multipleinheritance.html
+    * **Overriding and Hiding Methods** https://docs.oracle.com/javase/tutorial/java/IandI/override.html
+    * **Polymorphism** https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
+    * **Hiding Fields** https://docs.oracle.com/javase/tutorial/java/IandI/hidevariables.html
+    * **Using the Keyword super** https://docs.oracle.com/javase/tutorial/java/IandI/super.html
+    * **Object as a Superclass** https://docs.oracle.com/javase/tutorial/java/IandI/objectclass.html
+
 * **Package** https://docs.oracle.com/javase/tutorial/java/concepts/package.html
 
 * **Autoboxing and Unboxing** https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
 
- Interfaces and Inheritance
- Interfaces
- Defining an Interface
- Implementing an Interface
- Using an Interface as a Type
- Evolving Interfaces
- Default Methods
- Summary of Interfaces
- Questions and Exercises: Interfaces
- Inheritance
- Multiple Inheritance of State, Implementation, and Type
- Overriding and Hiding Methods
- Polymorphism
- Hiding Fields
- Using the Keyword super
- Object as a Superclass
- Writing Final Classes and Methods
- Abstract Methods and Classes
- Summary of Inheritance
- Questions and Exercises: Inheritance
- 
- 
- 
- 
- Generics (Updated)
- Why Use Generics?
- Generic Types
- Raw Types
- Generic Methods
- Bounded Type Parameters
- Generic Methods and Bounded Type Parameters
- Generics, Inheritance, and Subtypes
- 
- -->
- <!-- * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) -->
 
+* **Generics**
+    * **Why Use Generics?**
+    * **Generic Types**
+    * **Raw Types**
+    * **Generic Methods**
+    * **Bounded Type Parameters**
+    * **Generic Methods and Bounded Type Parameters**
+    * **Generics, Inheritance, and Subtypes**
+    
+#### Spring
+* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
+
+-->
 <!-- Link til Studentadministartion og forklar at denne indeholder det gennemgåede for semesteret og herefter henvis til literatur for semesteret. -->
 

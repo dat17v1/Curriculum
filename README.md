@@ -1,5 +1,5 @@
 # Pensum
-1\. og 2\. semesters pensum for Softwarekonstruktion Dat17v1
+1\. og 2\. semesters pensum, Softwarekonstruktion Dat17v1
 
 ## 1. semester   
 #### Emnerne for første semesters konstruktionsundervisning var følgende:

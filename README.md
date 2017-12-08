@@ -62,7 +62,12 @@ Fra: **Lesson: Language Basics** https://docs.oracle.com/javase/tutorial/java/nu
     * **Comparing Strings and Portions of Strings** https://docs.oracle.com/javase/tutorial/java/data/comparestrings.html
 
 * **Exeptions**
-    * **Try/Catch**
+	* **What Is an Exception?** https://docs.oracle.com/javase/tutorial/essential/exceptions/definition.html
+	* **The Catch or Specify Requirement** https://docs.oracle.com/javase/tutorial/essential/exceptions/catchOrDeclare.html
+    * **Catching and Handling Exceptions** https://docs.oracle.com/javase/tutorial/essential/exceptions/handling.html
+    * **The try Block** https://docs.oracle.com/javase/tutorial/essential/exceptions/try.html
+    * **The catch Blocks** https://docs.oracle.com/javase/tutorial/essential/exceptions/catch.html
+    * **The finally Block** https://docs.oracle.com/javase/tutorial/essential/exceptions/finally.html
     
 * **Writing to a Text File**
     * Class File https://docs.oracle.com/javase/8/docs/api/java/io/File.html)

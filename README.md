@@ -109,6 +109,10 @@ Fra: **Lesson: Language Basics** https://docs.oracle.com/javase/tutorial/java/nu
     * **Why Use Generics?** https://docs.oracle.com/javase/tutorial/java/generics/index.html
     * **Generic Types** https://docs.oracle.com/javase/tutorial/java/generics/types.html
     * **Raw Types** https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html
+
+* **Collection Framework** 
+	* **Dag 22 Java Collections Framework** https://github.com/dat17v1/2_22_Java_Collections_framework
+	* **Dag 23 Sets og Maps** https://github.com/dat17v1/2_23_Set_Map
     
 #### Spring
 * **Serving Web Content with Spring MVC** https://spring.io/guides/gs/serving-web-content/

@@ -2,10 +2,7 @@
 1\. og 2\. semesters pensum for Softwarekonstruktion Dat17v1
 
 ## 1. semester   
-
-Emnerne på første semesters konstruktion berørte følgende områder:
-
-#### Emnerne på første semesters konstruktion var følgende:
+#### Emnerne for første semesters konstruktionsundervisning var følgende:
 
 * OOP
    * Klasser
@@ -72,8 +69,7 @@ Fra: **Lesson: Language Basics** https://docs.oracle.com/javase/tutorial/java/nu
     * Class PrintStream https://docs.oracle.com/javase/8/docs/api/java/io/PrintStream.html    
 
 ## 2. semester
-
-#### Emnerne på første semesters konstruktion var følgende:
+#### Emnerne for andet semesters konstruktionsundervisning var følgende:
 * Databases
 	* Er-diagram
 	* DDL

@@ -106,13 +106,9 @@ Fra: **Lesson: Language Basics** https://docs.oracle.com/javase/tutorial/java/nu
 * **Autoboxing and Unboxing** https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html
 
 * **Generics**
-    * **Why Use Generics?**
-    * **Generic Types**
-    * **Raw Types**
-    * **Generic Methods**
-    * **Bounded Type Parameters**
-    * **Generic Methods and Bounded Type Parameters**
-    * **Generics, Inheritance, and Subtypes**
+    * **Why Use Generics?** https://docs.oracle.com/javase/tutorial/java/generics/index.html
+    * **Generic Types** https://docs.oracle.com/javase/tutorial/java/generics/types.html
+    * **Raw Types** https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html
     
 #### Spring
 * **Serving Web Content with Spring MVC** https://spring.io/guides/gs/serving-web-content/

@@ -156,12 +156,11 @@ Fra: **Lesson: Language Basics** https://docs.oracle.com/javase/tutorial/java/nu
 * **SQL PRIMARY KEY Constraint** https://www.w3schools.com/sql/sql_primarykey.asp
 * **SQL FOREIGN KEY Constraint** https://www.w3schools.com/sql/sql_foreignkey.asp
 
+##### Relationship
 
 * **The features of a relational database** https://www.lynda.com/Programming-Foundations-tutorials/features-relational-database/412845/438417-4.html?autoplay=true
-
 * **Primary Keys** https://github.com/dat17v1/2_15_databaser_primary_keys/blob/master/slides/Database%20modeling_%20tables%20-%20keys.pdf
 * **Database Modeling: Relationships** https://github.com/dat17v1/2_16_Relationer_mellem_tabeller/blob/master/Slides/16%20-%20Database%20Modeling_%20Relationships.pdf 
- 
 ##### Normalisering
 * **Normalisering** https://docs.google.com/document/d/e/2PACX-1vS5A34jXa-Qy0HY7b4hAXqbswLpMWyQoOuFJY1WM8PZysKywwXECtj89Xv0lDv_f58K_BdD1yogvWOI/pub
 * **19 Database Modeling_Normalization.pdf** https://github.com/dat17v1/19_normalisering/blob/master/19%20Database%20Modeling_%20Normalization.pdf
